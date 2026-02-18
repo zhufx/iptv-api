@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-18 07:09:04,https://cdn3.163189.xyz/163189/cctv13
+2026-02-18 19:09:48,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -61,11 +61,11 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -74,9 +74,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 
 🎬电影频道,#genre#
-靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 天映经典,https://o11.163189.xyz/stream/live/ccm/
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 
 🏀体育频道,#genre#
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
@@ -86,6 +85,8 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 优漫卡通,https://live.chinacert.cftest5.cn/mg/?id=626064703
 七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+中华小当家,https://live.ottiptv.cc/huya/11342413
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
